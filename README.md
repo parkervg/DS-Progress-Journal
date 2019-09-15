@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parkervg/DS-Progress-Journal/master)
 # DS-Progress-Journal
 
 Template for a beginner project in the UCSB Data Science Club.
