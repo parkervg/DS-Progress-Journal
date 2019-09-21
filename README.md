@@ -13,7 +13,7 @@ This short project intends to help those motivated and driven members of the clu
 
 
 ## Create Github Repository
-We'll be using this Git Cheat Sheet to help us out. [Git Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+We'll be using this [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) to help us out. 
 
 ### 1. Create GitHub account (if you haven't already) 
 ### 2. Link GitHub account to terminal/shell
@@ -37,3 +37,14 @@ We'll be using this Git Cheat Sheet to help us out. [Git Sheet](https://github.g
       2. `git commit -m "YOUR-MESSAGE"`         adds a custom commit message where you describe the changes that have been made
       3. `git push`                 pushes all staged commits
   
+## Install Dependencies 
+### 1. Navigate to the directory where the repo is stored locally to your computer 
+### 2. type `pip install -r requirements.txt`. 
+  - What's happening with this command is that, line-by-line, the neccessary modules for completing this project are being installed. Depending on your local python setup, you may need to specify `pip3` instead of just plain pip.
+
+## Open Jupyter Notebook
+For this section, check out [this guide](https://jupyter.readthedocs.io/en/latest/install.html) on installing Jupyter Notebook. It's reccomended that, if you are a beginner, you install Anaconda as a package manager. 
+### 1. On your terminal, change your directory to where you stored the DS-Progress-Journal repo
+### 2. Type `jupyter notebook` to start a new notebook session
+### 3. Click the 'ProgressJournal.ipynb' file to open and begin working.
+  - If, for whatever reason, the first cell importing all the dependencies fails, contact a Data Science Officer to help get everything set up right.
