@@ -26,5 +26,6 @@ We'll be using this Git Cheat Sheet to help us out. [Git Sheet](https://github.g
   - Cloning allows us to have a local copy of all the files in the repo which we can make changes to.
   - Hit the profile button in the top right of this page. From that drop-down, select "My Repositories" and find the "DS-Progress-Journal" repo you just cloned.
   - 
-![helpful image](https://github.com/parkervg/DS-Progress-Journal/master/resources/my_profile.png)
-![helpful image](https://github.com/parkervg/DS-Progress-Journal/master/resources/your_repositories.png)
+  
+![helpful image](https://github.com/parkervg/DS-Progress-Journal/blob/master/resources/my_profile.png)
+![helpful image](https://github.com/parkervg/DS-Progress-Journal/blob/master/resources/your_repositories.png)
