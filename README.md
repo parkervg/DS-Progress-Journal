@@ -36,6 +36,9 @@ We'll be using this [Git Cheat Sheet](https://github.github.com/training-kit/dow
       1. `git add -A`                 adds all changes, deletions and insertions made to the repo locally 
       2. `git commit -m "YOUR-MESSAGE"`         adds a custom commit message where you describe the changes that have been made
       3. `git push`                 pushes all staged commits
+  - **IMPORTANT:** In future collaborative work done on Github, you have the potential to make people very angry by pushing directly to master. Read up on [branches](https://help.github.com/en/articles/about-branches) and experiment on your own time within a personal repo with creating and merging branches.
+  
+  
   
 ## Install Dependencies 
 ### 1. Navigate to the directory where the repo is stored locally to your computer 
