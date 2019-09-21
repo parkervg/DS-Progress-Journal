@@ -11,6 +11,8 @@ Being in an academic club like the Data Science Club is very appealing to potent
 
 This short project intends to help those motivated and driven members of the club to track their weekly progress in a matplotlib visualization, while in the process also gaining knowledge of git commands.
 
+The final result is an interactive visualization like this:
+![example](https://github.com/parkervg/DS-Progress-Journal/blob/master/resources/example.png)
 
 ## Create Github Repository
 We'll be using this [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) to help us out. 
