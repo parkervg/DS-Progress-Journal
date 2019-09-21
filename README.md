@@ -39,7 +39,7 @@ We'll be using this [Git Cheat Sheet](https://github.github.com/training-kit/dow
   
 ## Install Dependencies 
 ### 1. Navigate to the directory where the repo is stored locally to your computer 
-### 2. type `pip install -r requirements.txt`. 
+### 2. Type `pip install -r requirements.txt`. 
   - What's happening with this command is that, line-by-line, the neccessary modules for completing this project are being installed. Depending on your local python setup, you may need to specify `pip3` instead of just plain pip.
 
 ## Open Jupyter Notebook
