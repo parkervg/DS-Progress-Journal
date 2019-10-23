@@ -18,6 +18,7 @@ The final result is an interactive visualization like this:
 We'll be using this [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) to help us out. 
 
 ### 1. Create GitHub account (if you haven't already) 
+### 1(a) If you are using windows, follow [this link](https://git-scm.com/download/win) to install Git 
 ### 2. Link GitHub account to terminal/shell
   - In the future, we want to be able to interact with our GitHub scripts through our terminal. In order to do this, we need to point git (the programming language upon which GitHub is based on) to our account.
   - Run `git config --global user.name "Your name here"` and `git config --global user.email "Your email here"` in your terminal.
@@ -53,3 +54,15 @@ For this section, check out [this guide](https://jupyter.readthedocs.io/en/lates
 ### 2. Type `jupyter notebook` to start a new notebook session
 ### 3. Click the 'ProgressJournal.ipynb' file to open and begin working.
   - If, for whatever reason, the first cell importing all the dependencies fails, contact a Data Science Officer to help get everything set up right.
+
+
+
+## Troubleshooting
+* If you are using Windows and Anaconda and get an SSLerror when installing with `pip install -r requirements.txt`, follow [this link](https://docs.telerik.com/teststudio/features/test-runners/add-path-environment-variables) to add the following PATH variables:
+  - D:\Anaconda3
+  - D:\Anaconda3\Scripts
+  - D:\Anaconda3\Library\bin
+  
+* If `pip install -r requirements.txt` returns something like "pip not found", make sure you have Python 3.6 or 3.7 installed. pip comes with all versions past 3.4
+
+* If you are having any other specific problems, slack me (Parker Glenn). I realize there may be more compatibility issues, especially with Windows.
